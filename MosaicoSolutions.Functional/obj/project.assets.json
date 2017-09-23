@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.csproj",
+      "projectUniqueName": "c:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.csproj",
       "projectName": "MosaicoSolutions.Functional",
-      "projectPath": "C:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.csproj",
+      "projectPath": "c:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.csproj",
       "packagesPath": "C:\\Users\\BrunoXavier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\obj\\",
+      "outputPath": "c:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

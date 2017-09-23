@@ -5637,11 +5637,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.Test\\MosaicoSolutions.Functional.Test.csproj",
+      "projectUniqueName": "c:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.Test\\MosaicoSolutions.Functional.Test.csproj",
       "projectName": "MosaicoSolutions.Functional.Test",
-      "projectPath": "C:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.Test\\MosaicoSolutions.Functional.Test.csproj",
+      "projectPath": "c:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.Test\\MosaicoSolutions.Functional.Test.csproj",
       "packagesPath": "C:\\Users\\BrunoXavier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.Test\\obj\\",
+      "outputPath": "c:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5660,8 +5660,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.csproj": {
-              "projectPath": "C:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.csproj"
+            "c:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.csproj": {
+              "projectPath": "c:\\Users\\BrunoXavier\\Documents\\GitHub\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional\\MosaicoSolutions.Functional.csproj"
             }
           }
         }
